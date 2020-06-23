@@ -1,4 +1,7 @@
-# CHS_DRG_GROUPER
+# CHS-DRG 野生分组器
+
+### CHS_DRG_GROUPER
+
 ## 概述
 - 一个依据 <医保办发〔2020〕29号 > 做的野生分组器<br>
 （A home made DRG Grouper based on the file 2020-29）
